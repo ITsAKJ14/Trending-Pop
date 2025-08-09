@@ -40,13 +40,7 @@ This project was created as a **learning exercise** to practice modern Android d
 
 | Home Screen (Now Playing) | Popular Movies | Top Rated |
 |---------------------------|----------------|-----------|
-| ![Now Playing](screenshots/now_playing.png) | ![Popular](screenshots/popular.png) | ![Top Rated](screenshots/top_rated.png) |
-
----
-
-## 🎥 Demo Video
-
-[![Watch the video](screenshots/demo_thumbnail.png)](https://github.com/yourusername/trendingpop/assets/demo.mp4)
+| ![Now Playing](assets/now_playing.png) | ![Popular](assets/popular.png) | ![Top Rated](assets/top_rated.png) |
 
 ---
 
