@@ -68,8 +68,8 @@ dependencies {
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.10.2")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.10.2")
     //coil
-    implementation("io.coil-kt:coil-compose:3.3.0")
-    implementation("io.coil-kt.coil3:coil-network-okhttp:3.3.0")
+    implementation("io.coil-kt:coil-compose:2.7.0")
+    implementation("com.github.skydoves:landscapist-coil:2.5.1")
 
     // Jetpack Compose integration
     val nav_version = "2.9.3"
