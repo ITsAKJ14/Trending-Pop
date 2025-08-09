@@ -1,8 +1,10 @@
 package com.example.trendingpop.common
 
+import com.example.trendingpop.BuildConfig
+
 object Constants {
     const val BASE_URL = "https://api.themoviedb.org/3/"
-    const val API_KEY = "4bddc2457c48dafbda46ddbb1d8c0633"
+const val API_KEY= BuildConfig.API_KEY
 
 }
 enum class MovieCategory(val value: String) {
